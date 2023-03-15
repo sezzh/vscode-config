@@ -1,47 +1,47 @@
 {
-  "editor.fontFamily": "fira code retina", //"iosevka sezzh"
-  "editor.renderWhitespace": "all",
-  "editor.wordWrap": "on",
-  "editor.lineNumbers": "on",
-  "editor.smoothScrolling": true,
-  "editor.formatOnPaste": false,
-  "editor.rulers": [
-      79, 120
-  ],
-  "editor.fontSize": 14,
-  "editor.tabSize": 2,
-  "editor.fontLigatures": false,
-  "editor.mouseWheelScrollSensitivity": 1,
-  "editor.cursorSmoothCaretAnimation": "off",
-
-  "workbench.colorTheme": "Bluloco Light",
-  "workbench.iconTheme": "material-icon-theme",
-  //"workbench.sideBar.location": "right"
-  "workbench.colorCustomizations": {
-      // "editorWhitespace.foreground": "#ffffff10",
-      // "editorIndentGuide.background": "#ffffff10",
-      "editorCursor.foreground": "#ff007b",
-      "editor.selectionBackground": "#a6ff0076",
-      "editor.selectionHighlightBackground": "#11ff001c",
-      "editor.background": "#fdfdfd"
-      // "editorLineNumber.activeBackground": "#ff0000"
-  },
-
-  "terminal.integrated.inheritEnv": true,
-  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.cursorStyle": "line",
-
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "files.eol": "\n",
-  "explorer.confirmDelete": false,
-  "gitlens.codeLens.scopes": [
-      "document",
-      "containers",
-      "blocks"
-  ],
-  "window.commandCenter": true,
-  "[python]": {
-      "editor.formatOnType": true
-  }
+    "editor.fontFamily": "iosevka fixed ss07 expanded", //"iosevka sezzh"
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on",
+    "editor.lineNumbers": "on",
+    "editor.smoothScrolling": true,
+    "editor.formatOnPaste": false,
+    "editor.rulers": [
+        79, 120
+    ],
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.fontLigatures": false,
+    "editor.mouseWheelScrollSensitivity": 1,
+    "editor.cursorSmoothCaretAnimation": "off",
+  
+    "workbench.colorTheme": "Bluloco Light",
+    "workbench.iconTheme": "material-icon-theme",
+    //"workbench.sideBar.location": "right"
+    "workbench.colorCustomizations": {
+        // "editorWhitespace.foreground": "#ffffff10",
+        // "editorIndentGuide.background": "#ffffff10",
+        "editorCursor.foreground": "#ff007b",
+        "editor.selectionBackground": "#a6ff0076",
+        "editor.selectionHighlightBackground": "#11ff001c",
+        "editor.background": "#fdfdfd"
+        // "editorLineNumber.activeBackground": "#ff0000"
+    },
+  
+    "terminal.integrated.inheritEnv": true,
+    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.cursorStyle": "line",
+  
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.eol": "\n",
+    "explorer.confirmDelete": false,
+    "gitlens.codeLens.scopes": [
+        "document",
+        "containers",
+        "blocks"
+    ],
+    "window.commandCenter": true,
+    "[python]": {
+        "editor.formatOnType": true
+    }
 }
