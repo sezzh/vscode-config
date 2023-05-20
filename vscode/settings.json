@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "iosevka fixed ss07 expanded", //"iosevka sezzh"
+    "editor.fontFamily": "iosevka sezzhy medium", //"iosevka sezzh"
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on",
     "editor.lineNumbers": "on",
@@ -12,7 +12,7 @@
     "editor.tabSize": 2,
     "editor.fontLigatures": false,
     "editor.mouseWheelScrollSensitivity": 1,
-    "editor.cursorSmoothCaretAnimation": false,
+    "editor.cursorSmoothCaretAnimation": "off",
   
     "workbench.colorTheme": "Bluloco Light",
     "workbench.iconTheme": "material-icon-theme",
