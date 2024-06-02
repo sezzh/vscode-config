@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "iosevka sezzhy medium", //"iosevka sezzh"
+  "editor.fontFamily": "cascadia mono nf", //"iosevka sezzh"
   "editor.renderWhitespace": "all",
   "editor.wordWrap": "on",
   "editor.lineNumbers": "on",
@@ -14,7 +14,7 @@
   "editor.mouseWheelScrollSensitivity": 1,
   "editor.cursorSmoothCaretAnimation": "off",
 
-  "workbench.colorTheme": "Default Light Modern",
+  "workbench.colorTheme": "Gruvbox Dark Soft",
   "workbench.iconTheme": "material-icon-theme",
   //"workbench.sideBar.location": "right"
   "workbench.colorCustomizations": {
@@ -35,4 +35,5 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "files.eol": "\n",
   "explorer.confirmDelete": false,
+  "workbench.sideBar.location": "right"
 }
