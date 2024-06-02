@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "iosevka sezzhy medium", //"iosevka sezzh"
+    "editor.fontFamily": "cascadia mono nf", //"iosevka sezzh"
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on",
     "editor.lineNumbers": "on",
@@ -13,17 +13,16 @@
     "editor.fontLigatures": false,
     "editor.mouseWheelScrollSensitivity": 1,
     "editor.cursorSmoothCaretAnimation": "off",
-  
-    "workbench.colorTheme": "Bluloco Light",
     "workbench.iconTheme": "material-icon-theme",
     //"workbench.sideBar.location": "right"
     "workbench.colorCustomizations": {
         // "editorWhitespace.foreground": "#ffffff10",
         // "editorIndentGuide.background": "#ffffff10",
-        "editorCursor.foreground": "#ff007b",
-        "editor.selectionBackground": "#a6ff0076",
-        "editor.selectionHighlightBackground": "#11ff001c",
-        "editor.background": "#fdfdfd"
+        // "editorCursor.foreground": "#ff007b",
+        "editorCursor.foreground": "#eeff00",
+        "editor.selectionBackground": "#5dff9038",
+        // "editor.selectionHighlightBackground": "#ffdd0035",
+        // "editor.background": "#fdfdfd"
         // "editorLineNumber.activeBackground": "#ff0000"
     },
   
@@ -44,7 +43,6 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "workbench.editor.untitled.hint": "hidden",
     "peacock.favoriteColors": [
         {
             "name": "Sezzh Gold",
@@ -95,5 +93,8 @@
             "value": "#42b883"
         }
     ],
-    "workbench.editor.empty.hint": "hidden"
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.productIconTheme": "fluent-icons",
+    "remote.autoForwardPortsSource": "hybrid"
 }
